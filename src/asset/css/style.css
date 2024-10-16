@@ -1,0 +1,31 @@
+.navmenus{
+    background-color: aqua !important;
+    font-size: 15px;
+    font-style: italic;
+    font-family: roboto;
+}
+
+.topheader{
+    background-image: url('../images/slidder.image.jpg');
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.topoverlay{
+    min-height: 500px;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.topcontent{
+    margin-top: 100px;
+}
+
+.toptitle{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
